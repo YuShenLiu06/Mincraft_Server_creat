@@ -37,12 +37,14 @@
 1. 安装Minecraft 1.19.2版本
 2. 安装Fabric Mod Loader
 3. 加载我们的服务器模组
-4. 连接到我们的服务器IP地址
+4. 连接到我们的服务器IP地址:playmc.e5.luyouxia.net:45292
 
 ## 联系我们
 如果你有任何问题或建议，可以通过以下方式联系我们：
-- [Discord 服务器](#discord-服务器)
-- [电子邮件](mailto:example@example.com)
+
+[//]: # (- [Discord 服务器]&#40;#discord-服务器&#41;)
+- [电子邮件](mailto:LiuYuShen06@outlook.com)
+- qq群:897413309
 
 ## 贡献
 我们欢迎任何形式的贡献，无论是设计思路、代码还是文档。如果你想要贡献，请查看我们的[贡献指南](#贡献指南)。
@@ -51,7 +53,7 @@
 如果你想要为服务器做出贡献，请遵循以下指南：
 - 确保你的贡献符合我们的[服务器规则](#服务器规则)
 - 提交你的设计文件或图纸到相应的文件夹
-- 通过我们的[Discord 服务器](#discord-服务器)或[电子邮件](mailto:example@example.com)与我们联系
+- 通过我们的[电子邮件](mailto:LiuYuShen06@outlook.com)与我们联系
 
 ## 设计用软件
 
